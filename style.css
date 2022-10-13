@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(180deg, rgba(182,226,255,1) 0%, rgba(255,148,181,1) 45%, rgba(255,214,148,1) 55%, rgba(255,214,148,1) 65%, rgba(254,205,255,1) 75%);
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 60px;
+    color:rgb(0, 0, 0);
+}
+
+h2 {
+    font-size: 55px;
+}
+
+#Agresivos {
+    background: linear-gradient(180deg, rgba(255,148,181,1) 0%, rgba(255,148,181,1) 50%, rgba(255,214,148,1) 100%);
+}
+
+#lindos {
+    background: linear-gradient(180deg, rgba(188,255,178,1) 0%, rgba(188,255,178,1) 50%, rgba(255,148,181,1) 100%);
+}
+
+#Inicio {
+    background: linear-gradient(180deg, rgba(182,226,255,1) 0%, rgba(182,226,255,1) 50%, rgba(188,255,178,1) 100%);
+}
+
+.undertale {
+    font-size: 30px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+.undertale i {
+    float: right;
+}
+
+#Reseñas {
+    background: linear-gradient(180deg, rgba(255,214,148,1) 0%, rgba(255,214,148,1) 50%, rgba(254,205,255,1) 100%);
+}
+
+h5 {
+    font-size: 45px;
+}
+
+#Libros {
+    background: linear-gradient(180deg, rgba(254,205,255,1) 0%, rgba(254,205,255,1) 45%, rgba(254,205,255,1) 60%, rgba(254,205,255,1) 75%);
+}
